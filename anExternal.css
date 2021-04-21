@@ -1,0 +1,27 @@
+#p1 {
+  font-family: "Papyrus";
+  border-radius: 25px;
+  background: #73ad21;
+  padding: 20px;
+}
+
+#p2 {
+  font-family: "Courier New";
+  border-style: dotted;
+  float: right;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  color: purple;
+  font-size: x-large;
+  font-weight: bolder;
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
